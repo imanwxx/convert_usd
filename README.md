@@ -1,8 +1,8 @@
 # convert_usd
 convert the usd exported in isaac sim to usda so that you can check the parameters of the link and joints.
 ## requirements
-```python
+```bash
 pip install usd-core
 ## convert
-```shell
+```bash
 python convert_usd.py
