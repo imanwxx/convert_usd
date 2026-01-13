@@ -4,5 +4,5 @@ convert the usd exported in isaac sim to usda so that you can check the paramete
 ```python
 pip install usd-core
 ## convert
-```bash
+```shell
 python convert_usd.py
